@@ -1,5 +1,5 @@
 It's an API that allows to check exchange rates of various currencies and convert them to USD. Here is aa example of a very simple application that is using the API:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -40,7 +40,7 @@ It's an API that allows to check exchange rates of various currencies and conver
     </script>
 </body>
 </html>
-
+```
 The API requires cross-origin resource sharing so it is needed to install a proper extension in user's browser, e.g:
 https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 
