@@ -1,4 +1,4 @@
-It's an API that allows to check exchange rates of various currencies and convert them to USD. Here is aa example of a very simple application that is using the API:
+It's an API that allows to check exchange rates of various currencies and convert them to USD. Here is an example of a very simple application that is using the API:
 ```
 <!DOCTYPE html>
 <html>
